@@ -1,6 +1,6 @@
 # PlantDiseaseDetectionCNN
 
-<h1>Plant Disease Detection using Convolution Neural Network</h1>
+<h3>Plant Disease Detection using Convolution Neural Network</h3>
 
 This model classifies the sample image into 
 - Bell Pepper Bacterial
